@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>gek.pandini</groupId>
-  <artifactId>cloud-sql-stopper</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>stoppy</artifactId>
+  <version>1.0.0</version>
 
   <name>java-function</name>
   <url>http://maven.apache.org</url>
